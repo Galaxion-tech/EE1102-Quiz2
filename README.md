@@ -8,9 +8,11 @@ Run the code
 Enter the Data as per the Circuit Diagram 
 ## PROBLEM 2
 Look for ./figure/prob2.jpeg for reference of ciruit diagram for Prob2.py  
+Run the code  
 ``` python3 Prob1.py```  
 Enter the Data as per the Circuit Diagram  
 ## PROBLEM 3
 Look for ./figure/prob3.jpeg for reference of ciruit diagram for Prob3.py  
+Run the code  
 ``` python3 Prob1.py```  
 Enter the Data as per the Circuit Diagram 
